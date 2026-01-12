@@ -14,6 +14,7 @@
 - Neural Networks (MLP, CNN, RNN, LSTM, GRU)
 - ✅ Keras (Completed up to GRU)
 - 🧪 PyTorch (Learning, up to GRU)
+- Transformers
 
 #### 🔍 NLP
 - Text Preprocessing, Tokenization
@@ -37,14 +38,17 @@
 
 #### 🛠️ Tools & Libraries
 - NumPy, Pandas, Scikit-learn, Matplotlib,Seaborn,Optuna
-- Keras, PyTorch, Jupyter, Git, GithubAction, Mlflow, Dvc, Docker, Fastapi, Kubernetes, Aws, Flask
+- Keras, PyTorch, Jupyter, Git, GithubAction, Mlflow, Dvc, Docker, Fastapi, Kubernetes, Aws, Flask,Langchain
 
 ---
 
 ### 🚀 Currently Learning
-- Transformers (from scratch, Encoder-Decoder)
 - Hugging Face NLP pipeline
 - Research-level NLP concepts
+- Lagchain
+- Laggraph
+- MCP
+- n8n
 
 ---
 
